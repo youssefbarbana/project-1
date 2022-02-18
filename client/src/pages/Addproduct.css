@@ -1,0 +1,41 @@
+/* background-image: url("https://images.pexels.com/photos/4344760/pexels-photo-4344760.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"); */
+.addproduct {
+  /* background-color: rgb(134, 59, 231); */
+  background-image: url("https://www.briansolis.com/wp-content/uploads/2022/01/eCommerce-Website-Components-photo.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+.con {
+  margin-top: 20px;
+  margin-left: 10%;
+  width: 80%;
+  height: 80%;
+}
+.add {
+  display: flex;
+  align-items: center;
+
+  height: 70px;
+  width: 80%;
+  margin-left: 200px;
+}
+.add input {
+  height: 50px;
+  width: 700px;
+  font-size: 20px;
+  margin-left: 60px;
+  background-color: white;
+}
+.added textarea {
+  width: 700px;
+  height: 80px;
+  border: none;
+  font-size: 20px;
+  background-color: white;
+}
+.added {
+  display: flex;
+  height: 90px;
+  width: 80%;
+  margin-left: 200px;
+}
